@@ -1,3 +1,4 @@
+package tsj;
 /*************************************************************************
  *  Compilation:  javac MaxPQ.java
  *  Execution:    java MaxPQ < input.txt
