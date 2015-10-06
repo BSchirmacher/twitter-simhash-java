@@ -1,3 +1,4 @@
+package tsj;
 /*************************************************************************
  *  Compilation:  javac LinearProbingHashST.java
  *  Execution:    java LinearProbingHashST

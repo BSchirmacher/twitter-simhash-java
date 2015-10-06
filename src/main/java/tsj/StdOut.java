@@ -1,3 +1,4 @@
+package tsj;
 /*************************************************************************
  *  Compilation:  javac StdOut.java
  *  Execution:    java StdOut
